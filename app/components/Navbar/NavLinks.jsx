@@ -1,7 +1,7 @@
 const navLinkData = [
   {
     title: "Home",
-    url: "#",
+    url: "/",
   },
   {
     title: "About",
@@ -9,7 +9,7 @@ const navLinkData = [
   },
   {
     title: "Features",
-    url: "./Pages",
+    url: "#",
   },
 ];
 
